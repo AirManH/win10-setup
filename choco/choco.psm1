@@ -1,4 +1,4 @@
-Import-Module -Name "$($PSScriptRoot)\utils.psm1" -ErrorAction Stop
+Import-Module -Name "$($PSScriptRoot)\..\utils\utils.psm1" -ErrorAction Stop
 
 
 function Install-Choco {

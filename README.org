@@ -5,5 +5,5 @@ Scripts to setup Windows 10 from a fresh install.
 ** Usage
 
 #+begin_src cmd
-./app/run.cmd
+./run.cmd
 #+end_src
